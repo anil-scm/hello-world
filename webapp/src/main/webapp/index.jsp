@@ -1,13 +1,13 @@
-<h1><font size="24" face="chiller" color="red">***** !!!  CORONA ALERT  !!! ***** </font></h1>
-<h2><font face="arial" color="blue" >
+a<h1><font size="24" face="chiller" color="red">***** !!!  Hello,  MAHI  !!! ***** </font></h1>
+<h2><font face="french style" color="blue" >
 
-<p>!. Don't go to the public areas,if not necessary !
+<p>How are you ?
   
-<p>!!. Wash your hand properly before taking any food.</font></h2>
+<p>Are you going to your home,next week ?</font></h2>
   
   
-  <h2><font face="algerian" color="green">Stay Clean ....Stay Healthy.....Stay Safe...</font></h2>
+  <h2><font face="ravie" color="green">Answer me....am waiting.....</font></h2>
 
    
- <font color="orange"> by: Your friend, Anil Kumar Biswal  </font> 
+ <font color="orange"> by:  Anil Kumar Biswal  </font> 
 
