@@ -1,13 +1,13 @@
-a<h1><font size="24" face="chiller" color="red">***** !!!  Hello,  CHHUNKA !!! ***** </font></h1>
+a<h1><font size="24" face="chiller" color="red">***** !!! Welcome to DevOps-world !!! ***** </font></h1>
 <h2><font face="french style" color="blue" >
 
-<p>How are you ?
+<p>Dockerfile && webapp.war
   
-<p>Wana go outside ?</font></h2>
+<p>anil_img</font></h2>
   
   
-  <h2><font face="ravie" color="green">Answer me....am waiting.....</font></h2>
+  <h2><font face="ravie" color="green">  well...thanks god.</font></h2>
 
    
- <font color="orange"> by:  Anil Kumar Biswal  </font> 
+ <font color="orange"> only gods blessing  </font> 
 
