@@ -40,19 +40,5 @@
       <scope>provided</scope>
     </dependency>
   </dependencies>
-         
-  <distributionManagement>
-
-		<repository>
-			<id>deployment</id>
-			<name>releases</name>
-			<url>http://13.231.121.105:8081/repository/anil-releases/</url>
-		</repository>
-		<snapshotRepository>
-			<id>deployment</id>
-			<name>snapshots</name>
-			<url>http://13.231.121.105:8081/repository/anil-snapshots/</url>
-		</snapshotRepository>		
-  </distributionManagement>
 
 </project>
